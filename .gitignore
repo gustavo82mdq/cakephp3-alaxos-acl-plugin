@@ -4,6 +4,9 @@
 /config/app.php
 /tmp/*
 /logs/*
+/.idea/
+composer.lock
+.editorconfig
 
 # CakePHP 2
 
